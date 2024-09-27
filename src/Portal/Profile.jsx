@@ -1,5 +1,5 @@
 import style from "./profile.module.css";
-import Portal from "./portal";
+import Portal from "./Portal";
 function Profile({ show }) {
   return (
     <>
