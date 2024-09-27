@@ -1,4 +1,4 @@
-import Portal from "./portal";
+import Portal from "./Portal";
 import style from "./comp1.module.css";
 
 
