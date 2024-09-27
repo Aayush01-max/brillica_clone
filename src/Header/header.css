@@ -1,0 +1,36 @@
+.header {
+    border: 2px solid white;
+    height: 100%;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+.left {
+    left: 0;
+    justify-items: left;
+    padding-left: 4%;
+}
+.right{
+    right: 0;
+    display: flex;
+    padding-left: 60%;
+    margin: auto;
+    justify-content: space-around;
+    color: #32308c;
+}
+.right div{
+    width: 25px;
+    height:25px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #32308c;
+    font-size: 16px;
+}

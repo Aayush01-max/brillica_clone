@@ -1,0 +1,51 @@
+.modulebutton {
+    border: 2px solid #022361;
+    color: #022361;
+    background-color: white;
+    border-radius: 5px;
+    width: 100px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 6px;
+    padding: 10px 10px;
+    text-align: center;
+}
+.activemodule{
+    border: 2px solid #022361;
+    color: white;
+    background-color: #022361;
+    border-radius: 5px;
+    width: 100px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 6px;
+    padding: 10px 10px;
+    text-align: center;
+}
+.boxone{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 5px 10px -5px black;
+    height: 17rem;
+    width: 23rem;
+    border-radius: 8px;
+}
+.boxone h2 {
+    color: rgba(0, 0, 0, 0.562);
+    font-weight: 600;
+}
+.boxtwo{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 5px 10px -5px black;
+    height: 17rem;
+    width: 23rem;
+    border-radius: 8px;
+}
+.boxtwo h2 {
+    color: rgba(0, 0, 0, 0.562);
+    font-weight: 600;
+}
+.alltest{
+    padding-top: 10px;
+}

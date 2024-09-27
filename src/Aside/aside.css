@@ -1,0 +1,25 @@
+.section {
+    padding-left: 1.8%;
+    padding-top: 3%;
+    width: 20%;
+}
+.aside {
+    width: 120%;
+    height: 41rem;
+    left: 0rem;
+    background-color: white;
+    line-height: 2.5rem;
+    /* padding-left: 10%; */
+    border-radius: 5px;
+}
+.list {
+    list-style: none;
+}
+.list li {
+    padding-left: 10%;
+}
+.active{
+    background-color: #022361;
+    border-radius: 6px;
+    color: white;
+}
